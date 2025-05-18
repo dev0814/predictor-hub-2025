@@ -65,7 +65,15 @@ function App() {
       description: "Madhya Pradesh Directorate of Technical Education predictor",
       url: "https://clg-pred-mpdte-2025.vercel.app/",
       image: "https://via.placeholder.com/150?text=MPDTE"
+    },
+    {
+      id: 10,
+      name: "IPU Predictor",
+      description: "Guru Gobind Singh Indraprastha University predictor",
+      url: "https://clg-pred-ipu-2025.vercel.app/",
+      image: "https://via.placeholder.com/150?text=IPU"
     }
+
   ];
 
   const openPredictor = (url) => {
