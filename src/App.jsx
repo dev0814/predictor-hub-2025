@@ -72,6 +72,13 @@ function App() {
       description: "Guru Gobind Singh Indraprastha University predictor",
       url: "https://clg-pred-ipu-2025.vercel.app/",
       image: "https://via.placeholder.com/150?text=IPU"
+    },
+    {
+      id: 11,
+      name: "TIET Predictor",
+      description: "THAPAR UNIVERSITY predictor",
+      url: "https://clg-pred-tiet-2025.vercel.app/",
+      image: "https://via.placeholder.com/150?text=TIET"
     }
 
   ];
